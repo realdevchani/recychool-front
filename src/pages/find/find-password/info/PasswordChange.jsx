@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Terms = () => {
+const PasswordChange = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Terms = () => {
   );
 };
 
-export default Terms;
+export default PasswordChange;

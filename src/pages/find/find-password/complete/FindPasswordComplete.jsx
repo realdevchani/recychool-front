@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Complete = () => {
+const FindPasswordComplete = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Complete = () => {
   );
 };
 
-export default Complete;
+export default FindPasswordComplete;

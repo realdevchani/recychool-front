@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Info = () => {
+const FindEmailComplete = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Info = () => {
   );
 };
 
-export default Info;
+export default FindEmailComplete;
